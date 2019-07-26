@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/annthurium/affirmations/issues"
   },
-  "homepage": "https://github.com/annthurium/affirmations#readme"
+  "homepage": "https://github.com/annthurium/affirmations#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
