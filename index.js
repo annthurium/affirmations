@@ -1,12 +1,11 @@
 const http = require('http');
 const express = require('express');
+const getRandomAffirmation = require('./affirmations');
 
 const app = express();
 
-const affirmation = 'you\'ll figure it out';
-
 app.get('/', (req, res) => {
-  res.json({affirmation});
+  res.json({affirmation: getRandomAffirmation()});
 });
 
 http.createServer(app).listen(3000, () => {
