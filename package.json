@@ -4,11 +4,15 @@
   "description": "an api for getting affirmations",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/annthurium/affirmations.git"
+  },
+  "engines": {
+    "node": "8.0.0"
   },
   "author": "tilde thurium",
   "license": "MIT",
