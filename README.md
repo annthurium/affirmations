@@ -21,7 +21,7 @@ example response:
 Pull requests are welcome! If you're looking to make your first open source contribution, how about adding some more affirmations? Ping @annthurium on Twitter if you have any questions about how to contribute -- they're happy to help.
 
 ## Code of Conduct
-Your comfort and safety is important and we take our Code of Conduct seriously. See [the full text and reporting instructions here](https://github.com/annthurium/affirmations/blob/master/)
+Your comfort and safety is important and we take our Code of Conduct seriously. See [the full text and reporting instructions here](https://github.com/annthurium/affirmations/blob/master/CODE_OF_CONDUCT.md)
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
