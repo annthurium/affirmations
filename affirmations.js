@@ -20,6 +20,12 @@ const affirmations = [
   "You're doing a great job",
   "It'll feel magical when it's working",
   "I'm rooting for you",
+  "Your mind is full of brilliant ideas",
+  "You make a difference in the world by simply existing in it",
+  "You are learning valuable lessons from yourself every day",
+  "You are worthy and deserving of respect",
+  "You know more than you knew yesterday",
+  "You're an inspiration",
 ];
 
 const getRandomAffirmation = () => affirmations[Math.floor(Math.random() * affirmations.length)];
