@@ -26,6 +26,8 @@ const affirmations = [
   "You are worthy and deserving of respect",
   "You know more than you knew yesterday",
   "You're an inspiration",
+  "You can do it",
+  "It is not a sprint, it is a marathon. One step at a time",
   "Success is the progressive realization of a worthy goal",
   "People with goals succeed because they know where they’re going",
   "All you need is the plan, the roadmap, and the courage to press on to your destination",
