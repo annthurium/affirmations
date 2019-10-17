@@ -26,6 +26,7 @@ const affirmations = [
   "You are worthy and deserving of respect",
   "You know more than you knew yesterday",
   "You're an inspiration",
+  "I give myself permission to do what is right for me"
   "You can do it",
   "It is not a sprint, it is a marathon. One step at a time",
   "Success is the progressive realization of a worthy goal",
