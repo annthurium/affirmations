@@ -26,6 +26,7 @@ const affirmations = [
   "You are worthy and deserving of respect",
   "You know more than you knew yesterday",
   "You're an inspiration",
+  "I give myself permission to do what is right for me"
 ];
 
 const getRandomAffirmation = () => affirmations[Math.floor(Math.random() * affirmations.length)];
