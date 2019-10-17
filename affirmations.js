@@ -26,6 +26,15 @@ const affirmations = [
   "You are worthy and deserving of respect",
   "You know more than you knew yesterday",
   "You're an inspiration",
+  "Yes, I have passed the literature lesson!" ,
+  "Is it true that we will spend your birthday at sea?",
+  "Are you sure you can with everything?",
+  "Have you really believed that I would not see you again?",
+  "Are you sure you are ready for the competition?",
+  "I have rightly come to see you",
+  "Certainly he tripped over that lamp",
+  "Certainly this book is the most interesting of all that you have",
+  "I will certainly go to visit you"
 ];
 
 const getRandomAffirmation = () => affirmations[Math.floor(Math.random() * affirmations.length)];
