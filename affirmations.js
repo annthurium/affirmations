@@ -26,6 +26,10 @@ const affirmations = [
   "You are worthy and deserving of respect",
   "You know more than you knew yesterday",
   "You're an inspiration",
+  "Your life is already a miracle of chance waiting for you to shape its destiny",
+  "Your life is about to be incredible",
+  "Nothing is impossible. The word itself says 'I’m possible!'",
+  "Failure is just another way to learn how to do something right"
   "I give myself permission to do what is right for me"
   "You can do it",
   "It is not a sprint, it is a marathon. One step at a time",
