@@ -26,7 +26,13 @@ const affirmations = [
   "You are worthy and deserving of respect",
   "You know more than you knew yesterday",
   "You're an inspiration",
+  "You were not made to give up",
+  "Your strength is greater than any struggle",
+  "You are not your mistakes",
+  "You matter",
+  "You are allowed to say 'no' to others and 'yes' to yourself"
 ];
 
-const getRandomAffirmation = () => affirmations[Math.floor(Math.random() * affirmations.length)];
+const getRandomAffirmation = () =>
+  affirmations[Math.floor(Math.random() * affirmations.length)];
 module.exports = getRandomAffirmation;
