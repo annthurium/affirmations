@@ -28,6 +28,14 @@ const affirmations = [
   "You're an inspiration",
   "You can do it",
   "It is not a sprint, it is a marathon. One step at a time",
+  "Success is the progressive realization of a worthy goal",
+  "People with goals succeed because they know where they’re going",
+  "All you need is the plan, the roadmap, and the courage to press on to your destination",
+  "The opposite of courage in our society is not cowardice... it is conformity",
+  "Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid",
+  "The past does not equal the future",
+  "The path to success is to take massive, determined action",
+  "It’s what you practice in private that you will be rewarded for in public",
 ];
 
 const getRandomAffirmation = () => affirmations[Math.floor(Math.random() * affirmations.length)];
