@@ -29,8 +29,8 @@ const affirmations = [
   "Your life is already a miracle of chance waiting for you to shape its destiny",
   "Your life is about to be incredible",
   "Nothing is impossible. The word itself says 'I’m possible!'",
-  "Failure is just another way to learn how to do something right"
-  "I give myself permission to do what is right for me"
+  "Failure is just another way to learn how to do something right",
+  "I give myself permission to do what is right for me",
   "You can do it",
   "It is not a sprint, it is a marathon. One step at a time",
   "Success is the progressive realization of a worthy goal",
