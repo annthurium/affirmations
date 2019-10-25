@@ -41,6 +41,7 @@ const affirmations = [
   "The past does not equal the future",
   "The path to success is to take massive, determined action",
   "It’s what you practice in private that you will be rewarded for in public",
+  "It's not a mistake, it's a learning opportunity",
 ];
 
 const getRandomAffirmation = () => affirmations[Math.floor(Math.random() * affirmations.length)];
