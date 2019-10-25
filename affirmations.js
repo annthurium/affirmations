@@ -45,6 +45,7 @@ const affirmations = [
   "Don't worry if you find flaws in your past creations, it's because you've evolved",
   "Starting is the most difficult step - but you can do it",
   "Don't forget to enjoy the journey",
+  "It's not a mistake, it's a learning opportunity",
 ];
 
 const getRandomAffirmation = () => affirmations[Math.floor(Math.random() * affirmations.length)];
