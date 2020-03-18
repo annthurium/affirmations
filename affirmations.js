@@ -46,6 +46,8 @@ const affirmations = [
   "Starting is the most difficult step - but you can do it",
   "Don't forget to enjoy the journey",
   "It's not a mistake, it's a learning opportunity",
+  "Thank you for the millions of dollars that are coming to me",
+  "You gotta believe it's already yours. That's the secret of manifestation."
 ];
 
 const getRandomAffirmation = () => affirmations[Math.floor(Math.random() * affirmations.length)];
