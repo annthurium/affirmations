@@ -47,7 +47,23 @@ const affirmations = [
   "Don't forget to enjoy the journey",
   "It's not a mistake, it's a learning opportunity",
   "Thank you for the millions of dollars that are coming to me",
-  "You gotta believe it's already yours. That's the secret of manifestation."
+  "You gotta believe it's already yours. That's the secret of manifestation",
+  "I enjoy multiple streams of income flowing to me",
+  "Every single day I create the future I want",
+  "I am so in demand, people are lining up to work with me",
+  "The more you learn, the more you earn",
+  "I have great ideas, and I put them into action, manifesting them into the physical world. I love to create.",
+  "I appreciate all that I have and all I am going to have",
+  "I choose to fully trust myself",
+  "This is my breakthrough year",
+  "Your goals don't give a fuck about your weekend, so keep grinding",
+  "It is okay to pray for exactly what you want",
+  "Goal: To make an income while making an impact",
+  "I have clarity in mind and I will create my own dream life",
+  "I now release the Goldmine within me",
+  "My biggest dream is to look back and say 'I made it'",
+  "I am aligned with the energy of Wealth",
+  "I thank the Universe for all the prosperity that is mine today"
 ];
 
 const getRandomAffirmation = () => affirmations[Math.floor(Math.random() * affirmations.length)];
