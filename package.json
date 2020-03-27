@@ -4,7 +4,7 @@
   "description": "an api for getting affirmations",
   "main": "index.js",
   "scripts": {
-      "test": "jest --forceExit",
+      "test": "jest --coverage --forceExit",
     "start": "node index.js",
     "update-coc": "weallbehave -o . && git add CODE_OF_CONDUCT.md && git commit -m 'docs(coc): updated CODE_OF_CONDUCT.md'"
   },
