@@ -48,5 +48,4 @@ const affirmations = [
   "It's not a mistake, it's a learning opportunity",
 ];
 
-const getRandomAffirmation = () => affirmations[Math.floor(Math.random() * affirmations.length)];
-module.exports = getRandomAffirmation;
+module.exports = affirmations
