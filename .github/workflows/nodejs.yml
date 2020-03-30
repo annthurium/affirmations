@@ -1,0 +1,22 @@
+# This workflow will do a clean install of node dependencies and run tests on node version 8.x
+
+name: Affirmations CI
+
+on:
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@master
+      - uses: actions/setup-node@v1
+        with:
+          node-version: '8.x'
+      - name: Installing dependencies
+        run: npm
+      - name: Running tests
+        run: npm test
+        env:
+          CI: true
