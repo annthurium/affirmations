@@ -1,0 +1,25 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "kenessajr",
+      "name": "Remy Muhire",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5709541?v=4",
+      "profile": "https://twitter.com/kenessajr",
+      "contributions": [
+        "code",
+        "test"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "affirmations",
+  "projectOwner": "annthurium",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
