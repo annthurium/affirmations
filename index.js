@@ -1,7 +1,10 @@
 const express = require('express');
+const cors = require('cors');
 const getRandomAffirmation = require('./random_affirmation');
 
 const app = express();
+
+app.use(cors());
 
 let PORT = process.env.PORT || 3000;
 
