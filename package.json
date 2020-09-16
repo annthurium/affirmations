@@ -4,7 +4,7 @@
   "description": "an api for getting affirmations",
   "main": "index.js",
   "scripts": {
-      "test": "jest --coverage --forceExit",
+    "test": "jest --coverage --forceExit",
     "start": "node index.js",
     "update-coc": "weallbehave -o . && git add CODE_OF_CONDUCT.md && git commit -m 'docs(coc): updated CODE_OF_CONDUCT.md'"
   },
@@ -13,7 +13,8 @@
     "url": "git+https://github.com/annthurium/affirmations.git"
   },
   "engines": {
-    "node": "8.0.0"
+    "node": "8.0.0",
+    "npm": "5.0.0"
   },
   "author": {
     "name": "tilde",
@@ -25,6 +26,7 @@
   },
   "homepage": "https://github.com/annthurium/affirmations#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^4.17.1"
   },
   "devDependencies": {
