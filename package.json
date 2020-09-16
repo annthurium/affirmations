@@ -13,7 +13,8 @@
     "url": "git+https://github.com/annthurium/affirmations.git"
   },
   "engines": {
-    "node": "8.0.0"
+    "node": "8.0.0",
+    "npm": "5.0.0"
   },
   "author": {
     "name": "tilde",
