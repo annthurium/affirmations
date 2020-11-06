@@ -46,6 +46,9 @@ const affirmations = [
   "Starting is the most difficult step - but you can do it",
   "Don't forget to enjoy the journey",
   "It's not a mistake, it's a learning opportunity",
+  "Just be yourself, because everybody else is already taken",
+  "Do something your future self will thank you for",
+  ""
 ];
 
 module.exports = affirmations
