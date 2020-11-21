@@ -48,4 +48,31 @@ const affirmations = [
   "It's not a mistake, it's a learning opportunity",
 ];
 
-module.exports = affirmations
+// Brazillian affirmations
+const affirmations_ptBr = [
+  "Você consegue",
+  "Você vai dar um jeito",
+  "Eu acredito em você",
+  "Ser horrível em algo é o primeiro passo para se tornar bom naquilo",
+  "Erros não te fazem menos capaz",
+  "Você é um humano capaz",
+  "Você sabe mais do acha",
+  "Se tudo fosse fácil você ficaria entendiado",
+  "Eu te admiro por estar seguindo em frente",
+  "Você vai achar a solução",
+  "Eu sei que você vai conseguir",
+  "Ter dificuldades significa que você está aprendendo",
+  "Você está fazendo um ótimo trabalho",
+  "Estou torcendo por você",
+  "Sua mente é cheia de grandes ideias",
+  "Você faz a diferença no mundo simplesmente por existir nele",
+  "Pessoas com objetivos têm êxito porque eles sabem aonde estão indo",
+  "Tudo que você precisa é de um plano, um caminho, e a coragem para persistir até o seu destino",
+  "O oposto de coragem em nossa sociedade não é covardia... É conformismo",
+  "O caminho para o sucesso é ter atitude",
+  "Um progresso pequeno é ainda assim um progresso",
+  "Começar é o passo mais difícil - mas você consegue",
+  "Não se esqueça de aproveitar a jornada",
+];
+
+module.exports = {affirmations, affirmations_ptBr}
