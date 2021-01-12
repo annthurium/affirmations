@@ -15,7 +15,7 @@ jobs:
         with:
           node-version: '8.x'
       - name: Installing dependencies
-        run: npm
+        run: npm install
       - name: Running tests
         run: npm test
         env:
