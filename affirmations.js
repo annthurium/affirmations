@@ -46,6 +46,15 @@ const affirmations = [
   "Starting is the most difficult step - but you can do it",
   "Don't forget to enjoy the journey",
   "It's not a mistake, it's a learning opportunity",
+  "Today will be better than yesterday",
+  "You're better than you think",
+  "Allow yourself to love yourself",
+  "Your perspective is unique. It's important and it counts",
+  "Nothing can dim the light that shines from within",
+  "There are people who love you",
+  "It's okay to be afraid",
+  "Today will be a good day",
+  "You're beautiful the way you are",
 ];
 
 module.exports = affirmations
